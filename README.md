@@ -225,7 +225,7 @@ Load custom templates via the "Load Custom" button in the API Simulator tab.
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+I welcome contributions! Here's how you can help:
 
 1. **Fork the repository**
 2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
